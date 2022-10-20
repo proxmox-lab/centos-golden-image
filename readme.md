@@ -1,0 +1,1 @@
+# CentOS Golden Image
