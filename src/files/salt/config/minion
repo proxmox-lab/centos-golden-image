@@ -1,0 +1,10 @@
+file_client: local
+fileserver_backend:
+  - gitfs
+gitfs_provider: pygit2
+gitfs_remotes:
+  - git@github.com:proxmox-lab/cm-configuration-private.git
+gitfs_root: salt
+gitfs_base: production
+gitfs_pubkey: /tmp/id_rsa.pub
+gitfs_privkey: /tmp/id_rsa

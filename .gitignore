@@ -1,0 +1,5 @@
+.DS_Store
+bootstrapEnvironment.sh
+preseed_pve.cfg
+preseed_esx.cfg
+*.log
